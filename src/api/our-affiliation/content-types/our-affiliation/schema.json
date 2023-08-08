@@ -1,0 +1,22 @@
+{
+  "kind": "collectionType",
+  "collectionName": "our_affiliations",
+  "info": {
+    "singularName": "our-affiliation",
+    "pluralName": "our-affiliations",
+    "displayName": "ourAffiliation"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "icon": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}

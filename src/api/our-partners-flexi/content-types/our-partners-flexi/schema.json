@@ -1,0 +1,22 @@
+{
+  "kind": "collectionType",
+  "collectionName": "our_partners_flexis",
+  "info": {
+    "singularName": "our-partners-flexi",
+    "pluralName": "our-partners-flexis",
+    "displayName": "OurPartnersFlexi"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "icon": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}

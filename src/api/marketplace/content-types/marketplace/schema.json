@@ -1,0 +1,33 @@
+{
+  "kind": "collectionType",
+  "collectionName": "marketplaces",
+  "info": {
+    "singularName": "marketplace",
+    "pluralName": "marketplaces",
+    "displayName": "Marketplace",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "url": {
+      "type": "text"
+    },
+    "logo": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "marketplacename": {
+      "type": "string"
+    }
+  }
+}

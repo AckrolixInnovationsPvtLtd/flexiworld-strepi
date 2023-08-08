@@ -1,0 +1,37 @@
+{
+  "kind": "collectionType",
+  "collectionName": "contact_details",
+  "info": {
+    "singularName": "contact-detail",
+    "pluralName": "contact-details",
+    "displayName": "Contact Detail",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "corporate_address": {
+      "type": "text"
+    },
+    "email": {
+      "type": "string"
+    },
+    "googlemap": {
+      "type": "text"
+    },
+    "register_address": {
+      "type": "text"
+    },
+    "Contact": {
+      "type": "text"
+    },
+    "indiaphoneno": {
+      "type": "string"
+    },
+    "usphoneno": {
+      "type": "string"
+    }
+  }
+}
