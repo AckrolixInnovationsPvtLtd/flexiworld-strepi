@@ -23,6 +23,13 @@
     },
     "longDescription": {
       "type": "richtext"
+    },
+    "banner": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false
     }
   }
 }
