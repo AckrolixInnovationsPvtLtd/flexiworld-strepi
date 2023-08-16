@@ -45,7 +45,6 @@ export default {
     translations: {
       en: {
         "app.components.LeftMenu.navbrand.title": "Flexiworld Dashboard",
-        "app.components.LeftMenu.navbrand.title": "Flexiworld-workplace",
       },
     },
   },
